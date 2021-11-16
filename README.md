@@ -1,3 +1,6 @@
+# Versión del curso
+versión actual: v1.2.2
+
 # Encabezados
 # Titulo H1
 ## Titulo H2
