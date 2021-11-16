@@ -39,4 +39,22 @@ Underline 2
 
 # Imagenes
 
-![Logo Github](https://pngimg.com/uploads/github/github_PNG40.png)
+![Logo Github](https://saeplus.com/images/imgpsh_fullsize.png)
+
+# Code Snippets
+
+#### Codigo en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
