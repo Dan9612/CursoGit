@@ -91,3 +91,25 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Daniel | Villarroel | 26419880 |
 | Mariana | Calderón | 24313389 |
+
+# Citas
+
+
+Esto es un texto referente a una cita que colocaremos debajo:
+> Esto es una cita.
+
+Este texto no se relaciona con la cita anterior:
+> Esta es otra cita.
+
+# Lineas Divisoras
+
+Este texto esta dividido por guiones.
+
+---
+Este texto esta dividido por asteriscos.
+
+***
+
+Este texto esta dividido por guiones bajos.
+
+___
